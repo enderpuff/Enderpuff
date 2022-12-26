@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Enderpuff
 - 👀 I’m interested in Animation, programming 
-- 🌱 I’m currently learning Animation
-- 💞️ I’m looking to collaborate on T3ddy night funkin', FNF VS Mecha Chicken
-- 📫 How to reach me YT: ~Enderpuff
+- 🌱 I’m currently learning C# and Unity.
+- 📫 My youtube is @_Enderpuff and my twitter is @DaisyDotHX
+- ‼ This repo is pretty outdated, so expect me to change it in the future.
 
 <!---
 Enderpuff/Enderpuff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
