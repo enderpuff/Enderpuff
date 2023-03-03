@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Enderpuff
 - 👀 I’m interested in Animation, programming 
-- 🌱 I’m currently learning C# and Unity.
+- 🌱 I’m currently learning Rust and C++.
 - 📫 My youtube is @_Enderpuff and my twitter is @DaisyDotHX
 - ‼ This repo is pretty outdated, so expect me to change it in the future.
 
