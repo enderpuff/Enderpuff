@@ -15,3 +15,9 @@
  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Daisy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=enderpuff&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=enderpuff&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages!" height="192px"/>
 </p>
+
+<p align="center">
+  <a href="https://ko-fi.com/V7V7JMBQN">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi">
+  </a>
+</p>
