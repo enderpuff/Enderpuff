@@ -1,4 +1,4 @@
-<h1 align="center">Hi, i'm Daisy! :)</h1>  
+<h1 align="center">Hi, i'm Chloe! :)</h1>  
 
 ----------------------------------------------
 
