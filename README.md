@@ -12,7 +12,7 @@ Languages i use:<br>
  
 Currently learning: <br> <a href='https://rust-lang.org' target="_blank"><img alt='Rust' src='https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white'/></a> <a href='https://www.w3schools.com/cpp/' target="_blank"><img alt='C++' src='https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white'/></a><br>
 Socials:<br>
-    <a href='https://www.youtube.com/channel/UC059LuOXxo1CuDJE4RtKPmw' target="_blank"><img alt='Youtube' src='https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white'/></a> <a href='https://twitter.com/DaisyDotHX' target="_blank"><img alt='Twitter' src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white'/></a>
+    <a href='https://www.youtube.com/channel/UC059LuOXxo1CuDJE4RtKPmw' target="_blank"><img alt='Youtube' src='https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white'/></a> <a href='https://twitter.com/enderpuff' target="_blank"><img alt='Twitter' src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white'/></a>
 </div>
 
 <p align="center">
