@@ -8,7 +8,7 @@
 I like to do modding sometimes. mainly <a href="https://ninja-muffin24.itch.io/funkin" title="-> This funky ass game">Friday Night Funkin'</a>, but looking forward to modding <a href="https://terraria.org">Terraria</a>
 <br> <br>
 Languages i use:<br>
- <a href='https://haxe.org' target="_blank"><img alt='Haxe' src='https://img.shields.io/badge/Haxe-100000?style=for-the-badge&logo=Haxe&logoColor=FFFFFF&labelColor=EA8220&color=EA8220'/></a> <a href='https://lua.org' target="_blank"><img alt='Lua' src='https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white'/></a>
+ <a href='https://haxe.org' target="_blank"><img alt='Haxe' src='https://img.shields.io/badge/Haxe-100000?style=for-the-badge&logo=Haxe&logoColor=FFFFFF&labelColor=EA8220&color=EA8220'/></a> <a href='https://lua.org' target="_blank"><img alt='Lua' src='https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white'/></a> <a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript' target="_blank"><img alt='Javascript' src='https://img.shields.io/badge/Javascript-FCDC00?style=for-the-badge&logo=javascript&logoColor=black'/></a>
  
 Currently learning: <br> <a href='https://rust-lang.org' target="_blank"><img alt='Rust' src='https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white'/></a> <a href='https://www.w3schools.com/c/' target="_blank"><img alt='C' src='https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white'/></a><br>
 Socials:<br>
