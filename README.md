@@ -15,5 +15,5 @@ Socials:<br>
 
 <p align="center">
  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Chloe's Github Stats" src="https://github-stats-one-chi.vercel.app/api?username=enderpuff&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
-<img src="https://github-stats-one-chi.vercel.app/api/top-langs?username=enderpuff&show_icons=true&locale=en&layout=compact&count_private=true&theme=tokyonight" alt="Top Languages!" height="192px"/>
+<img src="https://github-stats-one-chi.vercel.app/api/top-langs?username=enderpuff&show_icons=true&locale=en&layout=compact&count_private=true&exclude_repo=Github-Stats&theme=tokyonight" alt="Top Languages!" height="192px"/>
 </p>
